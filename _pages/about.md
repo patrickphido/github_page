@@ -10,7 +10,7 @@ redirect_from:
 Hi, I'm Patrick Do, a Computer Science student at UH.  
 I’m passionate about software development, AI, and tech for good.
 
-![profile](../images/profile.jpg)
+![profile](/images/profile.png)
 
 📚 **Education**  
 B.S. in Computer Science – University of Houston  
