@@ -116,7 +116,7 @@ social:
 # Analytics
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
+  google: G-Q9VS9VX6W6
     tracking_id          :
 
 
