@@ -16,5 +16,4 @@ B.S. in Computer Science – University of Houston
 (Expected Graduation: 2025)
 
 -[CS_UH](https://www.uh.edu/nsm/computer-science/)   
--[Resume(PDF)](/patrickphido/files/resume.pdf)  
 -[LinkedIn](https://www.linkedin.com/in/patrick-phi-do/)
