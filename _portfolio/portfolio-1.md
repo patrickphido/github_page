@@ -4,5 +4,7 @@ excerpt: "This project is a secure approval workflow system built for University
 collection: portfolio
 ---
 
-[![Watch the video](https://img.youtube.com/vi/Y1gwqXkWhXM/maxresdefault.jpg)](https://www.youtube.com/watch?v=Y1gwqXkWhXM)
+[Watch the project demo on YouTube](https://www.youtube.com/watch?v=Y1gwqXkWhXM)
+[Link to repository]https://github.com/uynvu078/Cambridge_teamProject
+
 
