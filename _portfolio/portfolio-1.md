@@ -4,5 +4,5 @@ excerpt: "This project is a secure approval workflow system built for University
 collection: portfolio
 ---
 
-[![Watch the video](https://img.youtube.com/vi/Y1gwqXkWhXM/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/Y1gwqXkWhXM/maxresdefault.jpg)](https://www.youtube.com/watch?v=Y1gwqXkWhXM)
 
